@@ -21,6 +21,7 @@ usage_stats_with_names <- usage_stats %>%
                           left_join(app_names, by=c('applicationId' = 'PackageName')) %>%
                           mutate(AppName = if_else(is.na(AppName),applicationId,AppName))
 
-
+# Adding day of week in table for grouping
+usage_stats_with_names <- usage_stats_with_names %>% mutate(wday=wday(date,label = TRUE))
 
 
