@@ -1,0 +1,223 @@
+AppName,PackageName
+Storage Manager,com.android.storagemanager
+Digital Wellbeing,com.google.android.apps.wellbeing
+com.oppo.partnerbrowsercustomizations,com.oppo.partnerbrowsercustomizations
+Print processing service,com.android.printspooler
+JioSaavn,com.jio.media.jiobeats
+com.qti.service.colorservice,com.qti.service.colorservice
+Quick Check,com.coloros.healthcheck
+Google Play Services for AR,com.google.ar.core
+Contacts Blacklist/Whitelist,com.coloros.blacklistapp
+PhonePe,com.phonepe.app
+VLC,org.videolan.vlc
+HeyTap Cloud,com.heytap.cloud
+PacProcessor,com.android.pacprocessor
+App Market,com.heytap.market
+Android Setup,com.google.android.apps.restore
+Community,com.realmecomm.app
+Gestural Navigation Bar,com.android.internal.systemui.navbar.gestural_narrow_back
+Google Partner Setup,com.google.android.partnersetup
+Contacts,com.android.contacts
+Speech services by Google,com.google.android.tts
+Search,com.oppo.quicksearchbox
+Zomato,com.application.zomato
+Moon+ Reader,com.flyersoft.moonreader
+Android Shared Library,com.google.android.ext.shared
+Photos,com.google.android.apps.photos
+MTP Host,com.android.mtp
+Diverse engine,com.color.uiengine
+Smart Scan,com.coloros.ocrscanner
+Camera,com.oppo.camera
+Bookmark Provider,com.android.bookmarkprovider
+realme Share,com.coloros.oshare
+Weather,com.coloros.weather2
+Google Sample Home Screen,com.google.android.gmsintegration
+Package Names,com.csdroid.pkg
+One-Tap Lock Screen,com.coloros.onekeylockscreen
+CarrierDefaultApp,com.android.carrierdefaultapp
+Gestural Navigation Bar,com.android.internal.systemui.navbar.gestural_extra_wide_back
+Weather Services,com.coloros.weather.service
+Squircle,com.android.theme.icon.squircle
+Video (System),com.coloros.video
+Termux:Widget,com.termux.widget
+Companion Device Manager,com.android.companiondevicemanager
+Pi,com.blockchainvault
+Lux Light Meter,com.doggoapps.luxlight
+Facebook App Installer,com.facebook.system
+Gestural Navigation Bar,com.android.internal.systemui.navbar.gestural_wide_back
+Instructions,com.oppo.operationManual
+Locationpicker,com.oppo.locationpicker
+Rounded,com.android.theme.icon_pack.rounded.launcher
+Perfect Piano,com.gamestar.perfectpiano
+com.qualcomm.embms,com.qualcomm.embms
+Termux:API,com.termux.api
+Tor Browser,org.torproject.torbrowser
+Device configuration,android.autoinstalls.config.oppo
+User Dictionary,com.android.providers.userdictionary
+Google Location History,com.google.android.gms.location.history
+Brave,com.brave.browser
+Market Feedback Agent,com.google.android.feedback
+com.qualcomm.qti.ims,com.qualcomm.qti.ims
+Rounded,com.android.theme.icon_pack.rounded.systemui
+Settings Suggestions,com.android.settings.intelligence
+Vi Movies and TV,com.vodafone.vodafoneplay
+Filled,com.android.theme.icon_pack.filled.android
+Filled,com.android.theme.icon_pack.filled.launcher
+Bluetooth MIDI Service,com.android.bluetoothmidiservice
+BoomSlingers,com.tuokio.boomslingers
+Android System WebView,com.google.android.webview
+Goodreads,com.goodreads
+LinkedIn,com.linkedin.android
+System Helper Service,com.qualcomm.qti.services.systemhelper
+Print Service Recommendation Service,com.google.android.printservice.recommendation
+CaptivePortalLogin,com.android.captiveportallogin
+Photos,com.coloros.gallery3d
+Signal,org.thoughtcrime.securesms
+com.redteamobile.roaming.deamon.App,com.redteamobile.roaming.deamon
+External Storage,com.android.externalstorage
+CallFeatureSetting,com.qualcomm.qti.callfeaturessetting
+Wallpapers,com.coloros.wallpapers
+Clone Phone,com.coloros.backuprestore
+Smart Assistant,com.coloros.assistantscreen
+OpenCapabilityService,com.coloros.ocs.opencapabilityservice
+Work Setup,com.android.managedprovisioning
+Drive,com.google.android.apps.docs
+Home Workout,homeworkout.homeworkouts.noequipment
+Reddit,com.reddit.frontpage
+Music,com.oppo.music
+Authenticator,com.azure.authenticator
+Mail,com.android.email
+Spotify,com.spotify.music
+Google Play services,com.google.android.gms
+Contacts Blacklist Storage,com.coloros.blacklist
+Screen recording,com.coloros.screenrecorder
+Google Play Movies & TV,com.google.android.videos
+After-Sales Service,com.oppoex.afterservice
+Android Accessibility Suite,com.google.android.marvin.talkback
+Android Auto,com.google.android.projection.gearhead
+Green,com.android.theme.color.green
+ProxyHandler,com.android.proxyhandler
+Smart Driving,com.coloros.smartdrive
+Sim App Dialog,com.android.simappdialog
+com.qualcomm.qti.improvetouch.service.ImproveTouchApp,com.qualcomm.qti.improvetouch.service
+WhatsApp,com.whatsapp
+Game Space,com.coloros.gamespaceui
+com.oppo.gmail.overlay,com.oppo.gmail.overlay
+Android Services Library,com.google.android.ext.services
+Game Center,com.nearme.gamecenter
+com.qualcomm.atfwd,com.qualcomm.atfwd
+OppoDiracService,com.oppo.multimedia.dirac
+Downloads,com.coloros.providers.downloads.ui
+HTML Viewer,com.android.htmlviewer
+ConfigUpdater,com.google.android.configupdater
+Keep notes,com.google.android.keep
+Lock Screen Magazine,com.heytap.pictorial
+Number Origin,com.coloros.phonenoareainquire
+File Manager,com.coloros.filemanager
+Secure payment,com.nearme.atlas
+Kindle,com.amazon.kindle
+Package installer,com.google.android.packageinstaller
+Dirac Control Service,se.dirac.acs
+Colorful Engine,com.heytap.colorfulengine
+Axis Mobile,com.axis.mobile
+Termux,com.termux
+Carrier Location Services,com.coloros.locationproxy
+Twitter,com.twitter.android
+TranslationService,com.coloros.translate.engine
+Software update interface,com.oppo.otaui
+Wipro Next Smart Home,wipro.com
+Contacts Storage,com.android.providers.contacts
+GPay,com.google.android.apps.nbu.paisa.user
+VpnDialogs,com.android.vpndialogs
+Vi™,com.mventus.selfcare.activity
+Google Services Framework,com.google.android.gsf
+Maps,com.google.android.apps.maps
+HeartBeat,eu.berdosi.app.heartbeat
+Main components,com.google.android.modulemetadata
+HDFC Bank,com.snapwork.hdfc
+Clock,com.coloros.alarmclock
+Private Safe,com.coloros.encryption
+Ocean,com.android.theme.color.ocean
+Rounded Rectangle,com.android.theme.icon.roundedrect
+Cell broadcasts,com.android.cellbroadcastreceiver
+Intent Filter Verification Service,com.android.statementservice
+Google,com.google.android.googlequicksearchbox
+Update Service,com.nearme.romupdate
+System UI,com.android.systemui
+Identification of Unknown Numbers,com.ted.number
+F-Droid,org.fdroid.fdroid
+My realme,com.heytap.usercenter
+Google Play Games,com.google.android.play.games
+Rounded,com.android.theme.icon_pack.rounded.android
+Default Print Service,com.android.bips
+Filled,com.android.theme.icon_pack.filled.systemui
+Telegram,org.telegram.messenger
+usageDirect,godau.fynn.usagedirect
+SecurityAnalysis,com.realme.securitycheck
+Authenticator,com.lastpass.authenticator
+Permission controller,com.google.android.permissioncontroller
+Filled,com.android.theme.icon_pack.filled.settings
+Compass,com.coloros.compass2
+WazirX,com.wrx.wazirx
+Filled,com.android.theme.icon_pack.filled.themepicker
+Files,com.google.android.documentsui
+Messages,com.android.mms
+Truecaller,com.truecaller
+IPPB Mobile,com.iexceed.appzillon.ippbMB
+Teardrop,com.android.theme.icon.teardrop
+Google One Time Init,com.google.android.onetimeinitializer
+SHGB mbanking,com.PNBSHGBMobileApp
+com.qualcomm.timeservice,com.qualcomm.timeservice
+Internet,com.heytap.browser
+Purple,com.android.theme.color.purple
+Orchid,com.android.theme.color.orchid
+Flipkart,com.flipkart.android
+Noto Serif / Source Sans Pro,com.android.theme.font.notoserifsource
+Android Setup,com.google.android.setupwizard
+Focus Mode,com.coloros.focusmode
+Space,com.android.theme.color.space
+Instagram,com.instagram.android
+System Launcher,com.oppo.launcher
+Amazon,in.amazon.mShop.android.shopping
+Facebook App Manager,com.facebook.appmanager
+Rounded,com.android.theme.icon_pack.rounded.settings
+OsuLogin,com.android.hotspot2
+Black,com.android.theme.color.black
+Call Log Backup/Restore,com.android.calllogbackup
+Tags,com.google.android.tag
+Calendar storage,com.android.providers.calendar
+Naukri.com,naukriApp.appModules.login
+Conference URI Dialer,com.qti.confuridialer
+Google Play Store,com.android.vending
+com.google.android.overlay.gmsgsaconfig,com.google.android.overlay.gmsgsaconfig
+Recorder,com.coloros.soundrecorder
+Chrome,com.android.chrome
+QColor,com.qualcomm.qti.qcolor
+OcrService,com.coloros.ocrservice
+Media Storage,com.android.providers.media
+Facebook Services,com.facebook.services
+Bitmoji,com.bitstrips.imoji
+U-Mobile,com.infrasoft.uboi
+DMApp,com.heytap.datamigration
+YouTube,com.google.android.youtube
+Calculator,com.coloros.calculator
+3 Button Navigation Bar,com.android.internal.systemui.navbar.threebutton
+Skype,com.skype.raider
+Smart Services,com.coloros.sceneservice
+ADM,com.dv.adm
+Clock (widget),com.coloros.widget.smallweather
+Download Manager,com.android.providers.downloads
+WPS Office,cn.wps.moffice_eng
+2 Button Navigation Bar,com.android.internal.systemui.navbar.twobutton
+Google Contacts Sync,com.google.android.syncadapters.contacts
+Save Blocked Numbers,com.android.providers.blockednumber
+Gestural Navigation Bar,com.android.internal.systemui.navbar.gestural
+Delhi Metro Rail,com.sraoss.dmrc
+SecCamService,com.qualcomm.qti.seccamservice
+Gmail,com.google.android.gm
+File Info,com.coloros.providers.fileinfo
+Theme Store,com.heytap.themestore
+Gboard,com.google.android.inputmethod.latin
+LTE Broadcast Manager,com.qti.ltebc
+Calendar,com.google.android.calendar
+User Experience Program,com.nearme.statistics.rom
