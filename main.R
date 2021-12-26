@@ -31,20 +31,23 @@ usage_stats_with_names <- usage_stats_with_names %>%
 # Daily Overall Usage of phone by hours
 usage_stats_with_names %>% 
   group_by(date) %>% 
-  summarise(total=sum(timeUsed_secs/60/60)) %>% 
-  ggplot(aes(date, total)) + geom_line() + geom_point()
+  summarise(total_hours=sum(timeUsed_secs/60/60)) %>% 
+  ggplot(aes(date, total_hours)) + geom_line() + geom_point()
+ggsave('plots/daily_total_usage.jpg')
 
 # Different color points for weekends
 usage_stats_with_names %>% 
   group_by(date, is_weekend) %>% 
   summarise(total_hours=sum(timeUsed_secs/60/60)) %>% 
   ggplot(aes(date, total_hours)) + geom_point(aes(color=is_weekend))
+ggsave('plots/daily_total_usage_scatter.jpg')
 
 # Total and Average hours plot of app Usage on different Weekdays
 usage_stats_with_names %>% 
   group_by(w_day) %>%
   summarise(total_hours=sum(timeUsed_secs/60/60)) %>% 
   ggplot(aes(w_day, total_hours)) + geom_col()
+
 
 usage_stats_with_names %>% 
   group_by(date, w_day) %>%
@@ -53,3 +56,5 @@ usage_stats_with_names %>%
   summarise(mean_hours=mean(total_hours)) %>%
   ggplot(aes(w_day, mean_hours)) +
   geom_col()
+ggsave('plots/avg_usage_by_w_day.jpg')
+
