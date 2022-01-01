@@ -58,3 +58,41 @@ usage_stats_with_names %>%
   geom_col()
 ggsave('plots/avg_usage_by_w_day.jpg')
 
+################### Analysis by App Names ####################
+
+# Filter Top 5 Apps of everyday and count which apps are
+# in top 5 for most of the days
+usage_stats_with_names %>% 
+  group_by(date) %>% 
+  filter(rank(desc(timeUsed_secs)) < 5) %>% 
+  ungroup() %>% 
+  count(AppName) %>% 
+  arrange(desc(n)) %>%
+  head(10) %>%
+  ggplot(aes(reorder(AppName, n),n)) +
+  geom_col() +
+  coord_flip() +
+  labs(
+    x = "App Name",
+    y = "No. of Times App is in Daily Top 5",
+    title = "Most Consistently used Apps"
+  ) 
+ggsave('plots/consistently_used_daily_top5_apps.jpg')
+
+## Filter out most used App of every day and count them
+usage_stats_with_names %>% 
+  group_by(date) %>% 
+  filter(timeUsed_secs == max(timeUsed_secs)) %>% 
+  ungroup() %>% 
+  count(AppName) %>% 
+  arrange(desc(n)) %>%
+  head(10) %>%
+  ggplot(aes(reorder(AppName, n),n)) +
+  geom_col() +
+  coord_flip()+
+  labs(
+    x = "App Name",
+    y = "No. of Times App is Most Used in a Day"
+  ) 
+ggsave('plots/mostly_used_apps_in_a_day.jpg')
+
